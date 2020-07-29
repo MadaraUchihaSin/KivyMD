@@ -32,7 +32,7 @@ import os
 
 from kivy.logger import Logger
 
-__version__ = "0.104.1"
+__version__ = "1.33.33"
 """KivyMD version."""
 
 try:
