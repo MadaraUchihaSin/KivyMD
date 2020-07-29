@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-.. include:: /changelog/unreleased.rst
+.. include:: /changelog/1.1.7.rst
 .. include:: /changelog/1.1.6.rst
 .. include:: /changelog/0.104.1.rst
 .. include:: /changelog/0.104.0.rst

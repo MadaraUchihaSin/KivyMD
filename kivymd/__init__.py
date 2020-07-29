@@ -32,7 +32,7 @@ import os
 
 from kivy.logger import Logger
 
-__version__ = "1.1.6"
+__version__ = "1.1.7"
 """KivyMD version."""
 
 try:

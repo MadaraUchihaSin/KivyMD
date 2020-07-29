@@ -1,0 +1,10 @@
+v1.1.7
+------
+
+    See on GitHub: `tag 1.1.7 <https://github.com/HeaTTheatR/KivyMD/tree/1.1.7>`_ | `compare 0.104.1/master <https://github.com/HeaTTheatR/KivyMD/compare/0.104.1...master>`_
+
+    .. code-block:: bash
+
+       pip install kivymd==1.1.7
+
+* Bug fixes and other minor improvements.
