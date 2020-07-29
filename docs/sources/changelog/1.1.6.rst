@@ -1,11 +1,11 @@
-Unreleased
-----------
+v1.1.6
+------
 
-    See on GitHub: `branch master <https://github.com/HeaTTheatR/KivyMD/tree/master>`_ | `compare 0.104.1/master <https://github.com/HeaTTheatR/KivyMD/compare/0.104.1...master>`_
+    See on GitHub: `tag 1.1.6 <https://github.com/HeaTTheatR/KivyMD/tree/1.1.6>`_ | `compare 0.104.1/1.1.6 <https://github.com/HeaTTheatR/KivyMD/compare/0.104.1...1.1.6>`_
 
     .. code-block:: bash
 
-       pip install git+https://github.com/HeaTTheatR/KivyMD.git@master
+       pip install kivymd==1.1.6
 
 * Bug fixes and other minor improvements.
 * Add `HotReloadViewer` class;
